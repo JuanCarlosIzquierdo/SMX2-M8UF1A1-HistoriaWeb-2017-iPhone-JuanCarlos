@@ -1,5 +1,7 @@
 # Lanzamiento del iPhone (2007)
 
++ ¿Que pasó?
+
 El iPhone supuso un antes y un después. Steve Jobs, fundador de Apple, presentó el 8 de enero de 2007 en la Macworld el primer dispositivo que junta un navegador web, una cámara de fotos, y un reproductor musical en un solo aparato.
 
 ![iPhoneConSteveJobs](https://github.com/JuanCarlosIzquierdo/SMX2-M8UF1A1-HistoriaWeb-2017-iPhone-JuanCarlos/blob/main/SteveJobsiPhone.jpg)
