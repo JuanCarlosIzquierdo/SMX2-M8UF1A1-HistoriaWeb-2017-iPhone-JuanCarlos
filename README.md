@@ -10,4 +10,6 @@ El telefono contaba con una pantalla de 3.5", apenas 128MB de ram y un almacenam
 
 Lo sorprendente para aquella época eran las númerosas funciones que podía hacer, capacidad de tomar fotos y vídeos, navegar por intenet, conectividad Wi-Fi, navegación con GPS y la capacidad de escuchcar música en un solo teléfono.
 
+Este telefono no introdujo la tienda de aplicaciones, que sería introducido un par de generaciónes después
+
 ![iPhone2G](https://github.com/JuanCarlosIzquierdo/SMX2-M8UF1A1-HistoriaWeb-2017-iPhone-JuanCarlos/blob/main/iPhone2G.jpg)
